@@ -14,7 +14,7 @@ A partir dessa análise foi possível concluir que :
     
     
 
-Autores: Larissa Aparecida Olimpio
+Autores: Larissa Aparecida Olimpio<br/>
          Elieser de França Costa
 
 Fonte: https://www.seade.gov.br/coronavirus/
