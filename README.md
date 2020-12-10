@@ -8,13 +8,13 @@ Neste projeto foi utilizado, como ambiente de desenvolvimento, o jupyter noteboo
 
 1. A partir dessa análise foi possível concluir que :
 
-   * • São Paulo foi o município com maior recorrência de casos no período analisado;<br/>
-   * • A média entre o número total de óbito no interior do estado de São Paulo foi 67,27; <br/>
-   * • Dentre o período de 23 de julho a 10 de novembro , ocorreu aumento siginificativo de casos de pessoas que testaram positivo para Covid-19.<br/>
+   * São Paulo foi o município com maior recorrência de casos no período analisado;<br/>
+   * A média entre o número total de óbito no interior do estado de São Paulo foi 67,27; <br/>
+   * Dentre o período de 23 de julho a 10 de novembro , ocorreu aumento siginificativo de casos de pessoas que testaram positivo para Covid-19.<br/>
     
     
 
 Autores: Larissa Aparecida Olimpio<br/>
-         -Elieser de França Costa
+         - Elieser de França Costa
 
 Fonte: https://www.seade.gov.br/coronavirus/
