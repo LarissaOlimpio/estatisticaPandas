@@ -14,7 +14,8 @@ Neste projeto foi utilizado, como ambiente de desenvolvimento, o jupyter noteboo
     
     
 
-Autores: Larissa Aparecida Olimpio<br/>
-* Elieser de França Costa
+Autores:
+Larissa Aparecida Olimpio<br/>
+- Elieser de França Costa<br/>
 
 Fonte: https://www.seade.gov.br/coronavirus/
