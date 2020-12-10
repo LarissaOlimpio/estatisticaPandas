@@ -1,4 +1,20 @@
-**estatisticaPandas**
+# Análise de dados sobre Covid-19 no ano de 2020 
 
-Nesse Projeto de análise de dados implementando tópicos de estatística usando pandas, é possível obter  a média, moda, variancia, desvio padrão e a mediana por meio de importações de bibliotecas no jupyter notebook. Dessa forma, podemos analisar dados através de arquivos no formato .csv e gerar diversas informações.
-Foi utilizado dados referentes a vendas de jogos de video game e dados referente ao Covid-19
+## Implemetação dos tópicos da disciplina de estatística da faculdade Fatec São José dos Campos Professor Jersen Vidal.
+
+
+Esse estudo foi feito com o bjetivo de descobrir a média de óbitos dentre os municípios do interior do estado de São Paulo. A partir dessa informação foi calculado também o desvio padrão e a variância, bem como a moda, esta foi possível obter através da análise da recorrência de casos dentre os municípios brasileiros. Ademais, foi gerado um gráfico mostrando a quantidade de casos de pessoas infectadas pelo vírus do Covid-19 por dia, no período de julho a novembro do ano de 2020.
+Neste projeto foi utilizado, como ambiente de desenvolvimento, o jupyter notebook a fim de fazer a análise de dados utilizando python e suas bibliotecas como pandas e matplotlib
+
+A partir dessa análise foi possível concluir que :
+
+    São Paulo foi o município com maior recorrência de casos no período analisado;
+    A média entre o número total de óbito no interior do estado de São Paulo foi 67,27;
+    Dentre o período de 23 de julho a 10 de novembro , ocorreu aumento siginificativo de casos de pessoas que testaram positivo para Covid-19.
+    
+    
+
+Autores: Larissa Aparecida Olimpio
+         Elieser de França Costa
+
+Fonte: https://www.seade.gov.br/coronavirus/
